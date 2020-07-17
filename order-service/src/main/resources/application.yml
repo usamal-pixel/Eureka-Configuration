@@ -1,0 +1,9 @@
+server:
+  port: 7001
+spring:
+  application:
+     name: ORDER-SERVICE
+  banner:
+    location: classpath:banner.txt
+
+              

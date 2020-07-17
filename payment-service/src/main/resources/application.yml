@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: PAYMENT-SERVICE
+  banner:
+    location: classpath:banner.txt
+
+server:
+  port: 7002
+
